@@ -7,6 +7,9 @@
 It makes apis which have category, product and tag data regarding e-commerce platform. In those apis, category and product data contains 1 to 1 relationship, and product and tag has 1 to many relationship.
 
 
+Below link presents the walkthrough video.
+https://drive.google.com/drive/folders/1KXW2UCWTvl9VxrT_VlHeMQnFlU0ivsMz?usp=sharing
+
 
 ## Table of Contents 
 
